@@ -1,6 +1,6 @@
 '# gitlesson
 Demo repository
-
+These changes are alright (online).
 ## Content category
 
 More unnecessary details...
